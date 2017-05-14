@@ -1,4 +1,4 @@
-HK: See: http://www.mojohaus.org/exec-maven-plugin/usage.html
+Simple hello world app using maven, java and git.
 
 To build:
 mvn clean compile test
